@@ -20,5 +20,4 @@ Archived files are kept for reference and historical tracking but are not active
 - It only hosts structured tier data for in-game consumption.
 - All data updates are controlled server-side within the game.
 
-## Author
 By **Nick_chill**
