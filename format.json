@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TIGR Tierlist Format (Locked)",
+  "description": "JSON Schema that strictly defines the trading tierlist format for TIGR (trolls + items).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["meta", "categories"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["version", "lastUpdated", "tierOrder"],
+      "properties": {
+        "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "lastUpdated": { "type": "string", "format": "date" },
+        "tierOrder": { "type": "array", "minItems": 1, "items": { "type": "string" } }
+      }
+    },
+    "categories": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["trolls", "items"],
+      "properties": {
+        "trolls": { "type": "array", "items": { "$ref": "#/definitions/entry" } },
+        "items": { "type": "array", "items": { "$ref": "#/definitions/entry" } }
+      }
+    }
+  },
+  "definitions": {
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name","tier","points","pointsUnknown","demand","stability","trend","label","notes"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "tier": { "type": "string", "enum": ["SS","S","A","B","C","D","E","F","NV"] },
+        "points": { "anyOf": [ { "type": "integer", "minimum": 0 }, { "type": "null" } ] },
+        "pointsUnknown": { "type": "boolean" },
+        "demand": { "anyOf": [ { "type": "integer", "minimum": 0 }, { "type": "null" } ] },
+        "stability": { "type": "string", "enum": ["Stable","Unstable","Variable","Unknown"] },
+        "trend": { "anyOf": [ { "type": "string", "enum": ["Rising","Decreasing","Flat","Unknown"] }, { "type": "null" } ] },
+        "label": { "type": "string", "enum": ["none","event","unobtainable","limited","promo","seasonal","legendary"] },
+        "notes": { "anyOf": [ { "type": "string" }, { "type": "null" } ] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "pointsUnknown": { "const": true } } },
+          "then": { "properties": { "points": { "type": "null" } } }
+        },
+        {
+          "if": { "properties": { "pointsUnknown": { "const": false } } },
+          "then": { "properties": { "points": { "type": "integer", "minimum": 0 } } }
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2025-01-17",
+        "tierOrder": ["SS","S","A","B","C","D","E","F","NV"]
+      },
+      "categories": {
+        "trolls": [],
+        "items": []
+      }
+    }
+  ]
+}

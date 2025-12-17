@@ -1,0 +1,344 @@
+Tiers
+In each tier, the top is the most valuable and the bottom is the least valuable.
+Example:
+D Tier
+Divine Cup  Highest Value
+Milk Cup
+Icy Cup
+Invisible Cup
+Blood Cup  Lowest Value
+
+Value Keys
+The numbers next to the item/troll are points that estimate their value.
+Key:
+(value?) = if the points have a ? next to the value, it means the value is unknown or is an estimate.
+(value/message) = just a small note about the item/troll.
+
+Values
+The Parenthesis go from points, demand, and how stable/unstable it is:
+
+
+- Stable value means the current value of the item/troll isn't inflated much (which means it most likely wont change.)
+
+- Unstable value means the current value of the item/troll is currently being inflated by a lot (most likely due to being a new item or troll, and has more chances to change).
+
+Example: 
+Stone Troll (240, 3/10, Stable), The amount of points (which for Stone Troll it would be 240 points in this case) define what YOU can trade for something. Like Greed Troll (250, 4/10, Stable), which is 250 points, and since both trolls are near in Points and Demand, you could trade for it, this is also called a Fair Trade, or in simpler terms, a F 
+
+
+Labels
+None: Obtainable
+Light Green: Event/Unobtainable
+Light Blue: Giveaway Exclusive
+Light Yellow: Developer Event
+Light Purple: Unreleased
+Light Red: Seasonal Troll (Easter, Summer, Halloween, Christmas, Etc.)
+
+
+
+
+Troll Tier List
+SS Tier
+skateboarder (7500, 6.7/10, Unstable)
+skater (7000, 7/10, Stable)
+Scientist (6500, 3/10, Unstable)
+Ape O. Buffy: Shift Fourth/G4 (6000, 7/10, Stable)
+Manly Troll (5500, 5/10, Unstable)
+Priest (5000, 8/10, Stable)
+the fish (4000, 6/10, Stable/HEAVILY DECREASING)
+Trollge Phonk (2800, 7.2/10, Stable)
+Big Toilet Troll (1500, 6/10, Stable)
+
+
+
+
+
+S Tier
+Juno (1000, 5.5/10, Stable)
+Clover One (900, 6/10, Stable)
+Clover Troll (850, 2/10, Stable)
+Patrioteer (750, 9/10,Stable)
+Headless Horseman (700, 7/10, Stable)
+Star Reborn (650, 5/10, Stable)
+Night Star (620, 7.5/10, Stable)
+Ruler of Time (600, 7.5/10, Stable)
+Sand Enjoyer (580, 5/10, Stable)
+Inferno Troll (550, 7.5/10, Stable)
+Livinglocationcoast (540, 2/10, Stable)
+ULTRA BOLT (530, 8/10, Stable)
+V1 (525, 9/10, Stable)
+Ape O. Buffy: Moon God Liga/G5 (500, 6/10, Stable)
+Fool's Troll (450, 6.4/10, Stable)
+10K Noob Troll (400, 5.6/10, Stable)
+Upside Down Troll (370, 2/10, Stable)
+Troller (350, 5.5/10, Unstable)
+Greed Troll (350, 4/10, Stable)
+Stone Troll (340, 3/10, Stable)
+sogoween (320, 2/10, Stable)
+seconds before the sog (300, 2/10, Stable)
+Radioactive (300, 5/10, Stable)
+Drippy Troll (300, 3/10, Stable/Decreasing)
+Short Troll (300, 2/10, Stable)
+Stewart (300, 2.3/10,Stable)
+Lucky One (275, 2/10, Stable)
+
+
+
+
+A Tier
+Illuminatroll (250, 6/10, Stable)
+Dust Sans (Bad Time Sans) (215, 8/10, Stable)
+Tall Guy: Platinized DJ (210, 3.6/10, Stable)
+Plushie Troll (210, 2.5/10, Stable)
+1M Happy Troll (205, 3/10, Stable)
+1M Troll (200, 3/10, Stable)
+Light Consumer (185, 3/10, Unstable)
+Sansta (180, 3/10, Unstable)
+Icy Warrior (180, 3/10, Unstable)
+Krampus (180, 2/10, Stable)
+Santa (180, 2/10, Unstable)
+Gingerbread Troll (180, 2/10, Unstable)
+Elf Troll (180, 2/10, Unstable)
+Gift Troll (180, 2/10, Unstable)
+Candy Consumer (180, 3.3/10, Stable)
+Beach Enthusiast (175, 7/10, Stable)
+White Choco Troll (170, 2/10, Stable)
+Tiny Troll (170, 7/10, Stable)
+Cursed Burning Skull (140, 5/10, Stable)
+Necromancer (130, 4/10, Stable)
+Choco Troll (125, 1/10, Stable)
+Moai Trolling (115, 8/10, Stable)
+SansStealSanvich (95, 7/10, Unstable)
+The Chosen One (90, 1/10, Stable)
+Chainlocked (90, 7/10,Unstable)
+Trollegg (90, 6/10 Stable)
+Summer troll (90, 4/10, Unstable)
+Sunny Troll (90, 3/10, Stable)
+banatroll (90, 3.7/10, Stable)
+Bunny Troll (85,  3.2/10, Unstable)
+Fog Troll (80, 2/10 Stable)
+Fog Trollge (80, 2/10 Stable)
+Burning Skull (80, 1/10, Stable)
+Bad Time Sans (79, 6/10, Stable)
+Zamasu (78, 6/10, Stable)
+Eraser Mark 2 (77, 1/10, Stable)
+Drip Goku (75, 1/10, Stable)
+Oil Troll (77, 2/10, Stable)
+Warper (75, 4/10, Unstable)
+The Happiness (74, 4/10, Unstable)
+Weeping Reaper  (70, 3/10, Stable)
+Cursed Selinofoto (65, 3/10, Stable)
+Dust Sans (Final Stand Sans) (63, 2/10, Stable)
+Vigilante (62, 2/10, Stable)
+Boiling Stars (62, 3/10, Stable)
+Hank (61, 3/10, Stable)
+Natures Corruption (60, 3.8/10, Stable)
+Tall Guy (59, 3.6/10, Stable)
+Tricky (59, 1/10, Stable)
+Ultra Gloober (59, 3/10 Stable)
+Ultra Giggler (58, 1/10, Stable)
+Dust Sans (59, 1/10, Stable)
+
+
+
+
+B Tier
+Rainbow Troll (49, 1/10, Stable)
+Saitama (45, 2/10, Stable)
+Final Stand Sans (37, 1/10, Stable)
+Sans (34, 3/10, Stable)
+Gloober (34, 2/10, Stable)
+Pirate Captain Troll (33.5, 1/10, Stable)
+
+
+
+C Tier
+Goku (32, 3/10, Stable)
+Chicken Salad (30, 1/10, Stable)
+Selinofoto (28, 1/10, Stable)
+TROLLGEMIK (27, 1/10, Stable)
+Pirate Troll (26, 1/10, Stable)
+
+D Tier
+Snow Eater (26, 1/10, Stable)
+Thanatos (26, 1/10, Stable)
+RPG Troll (25, 1/10, Stable)
+Caped Baldy (16, 1/10, Stable)
+Giggler? (16, 1/10, Stable)
+Fatal Error (16, 1/10, Stable)
+BOLT (15, 1/10, Stable)
+Gravity Troll (14, 2/10, Stable)
+Darkness Friend (14, 1/10, Unstable)
+Giggler (14, 3/10, Stable)
+Decayed (13, 2/10, Stable)
+
+E Tier
+Inside Walls Troll (12, 1/10, Stable)
+Metal Troll (8, 0/10, Stable)
+Trollge (7, 0/10, Stable)
+Wooden Troll (6, 0/10, Stable)
+Eraser Trollgel (5, 1/10, Stable)
+Troll Buddy (5, 1/10, Stable)
+
+F Tier
+Grass Troll (4, 0/10, Stable)
+rock throwing enjoyer (3, 0/10 Stable)
+Happy Troll (3, 0/10, Stable)
+Chicken Lover (2, 1/10, Stable)
+Canon Troll (2, 0/10, Stable)
+Giant Troll (1, 0/10, Stable)
+
+No Value
+Troll (0, 0/10, Stable)
+
+Item Tier List
+SS Tier
+Big Toilet (1900, 6.5/10, Stable)
+Ultimate Star (1800, 6.5/10, Stable)
+Clover- (1700, 3/10, Stable)
+NeonCandyBucket (1500, 3/10, Unstable)
+Fog Sword (1400, 3.6/10, Stable)
+Light Ball (1100, 1/10, Unstable)
+Token of Greed (1050, 2/10, Stable)
+Chest Of Greed (1000, 6.5/10, Stable)
+Tier 3 Candy Bucket (1000, 2/10,Stable)
+Tier 2 Candy Bucket (1000, 1/10, Stable)
+Tier 1 Candy Bucket (1000, 1/10,Stable)
+Funny Oil Cup (985, 4/10, Stable)
+Star Chest (975, 3/10, Unstable)
+Clover (950, 3/10, Stable)
+Cup of Unobtainables (900, 6.5/10, Stable)
+
+
+
+S Tier
+Ruler of Time Cup (800, 7.5/10, Stable)
+Clover Cup (750, 4/10, Stable)
+10K Cup (740, 6.9/10, Stable)
+Independent Cup (700, 4/10, Stable)
+Lightning Cup (700, 5/10, Stable)
+Independance Cup (680, 4/10, Stable)rubu rubu
+Infernal Cup (670, 8/10 , Decreasing)
+Awakened Rubu Rubu Yes Yu (650, 7/10, Unstable/Decreasing)
+Cup Of Greed (620, 7/10, Stable)
+Neon Green Dorito (610, 6/10, Stable)
+Sandy Cup (610, 7.5/10, Stable)
+V1 Cup (570, 9/10, Unstable)
+Prime Soul (560, 4.4/10, Stable)
+Fool's Ball (550, 4/10, Unstable)
+
+A Tier
+Candy Cup (350, 6/10 , Stable)
+Icy Gift (315, 5.2/10 , Stable)
+Red Shining Gift Of Light (310, 5/10 , Stable)
+Red Gift Of Blessing (300, 4.3/10 , Stable)
+Gingerbread Gift (290, 3.5/10 , Stable)
+Gift of the Holidays (289, 3.2/10 , Stable)
+Gift of Trolling (287, 2/10 , Stable)
+Beach Cup (285, 4/10, Stable)
+1M Cup (280, 2.8/10 , Stable)
+Easter Basket (280, 2/10, Stable)
+Summer Cup (280, 5/10 , Stable)
+Tiny Oil Cup (250, 7.5/10 , Stable)
+Snow Cup (248, 5.2/10 , Stable)
+Magma Cup (240, 2.8/10, Stable)
+April Fools Cup (230, 4.5/10, Stable)
+Rubu Rubu Yes Yu (230, 6.8/10 , Unstable/Decreasing)
+Skin Cup (215, 7/10 , Stable)
+Summer Chest (220, 3.2/10 , Stable)
+Inferno Essence (210, 6.8/10,Stable)
+banan (190, 4/10, Stable)
+Chip (180, 4/10, Stable)
+Dictiolatin (170, 5/10, Stable)
+Shard of Greed (160, 7.4/10, Stable)
+Krampus Head (175, 4.7/10 , Stable)
+Present (165, 5.6/10 , Unstable/Rising)
+Crumbling Citadel (155, 7/10 , Unstable/Decreasing)
+Oil of Cup (150, 1.6/10, Stable)
+Alpha Cup (145, 2/10, Stable)
+Chip Cup (140, 4/10, Stable)
+Halloween Cup (135, 4/10, Stable)
+Sun Fragment (130, 3.6/10, Stable)
+Cursed Cup (130, 6/10, Stable)
+Pumpkin Pie (125, 4.2/10 , Stable)
+Advanced Scientist Notebook (120, 6.5/10 , Unstable/Decreasing)
+Moai Statue (120, 5/10, Stable)
+Eg (115, 6/10, Stable)
+Chocolate Cup (110, 2.5/10 , Stable)
+Party Hat (100, 3.4/10 , Unstable)
+B Tier
+Aether Cup (97, 3.4/10, Stable)
+Star Cup (95, 2/10, Stable)
+Journal of Eternal Stars (90, 6.8/10 , Unstable/Decreasing)
+Upgrader Cup (80, 3.8/10 , Stable)
+Warp (95, 4.2/10 , Unstable/decreasing)
+Gingerbread (105, 3/10 , Stable)
+Wreath (105, 2.8/10 , Stable)
+Scientist Notebook (85, 5.2/10 , Unstable/Fluctuating)
+Christmas Spirit (100, 2.6/10 , Stable)
+Time Essence (95, 4/10, Stable)
+A cup of some bad time (90, 4.8/10, Stable)
+Troll Wrapper (98, 2.4/10 , Stable)
+Candy Cane (95, 2.2/10 , Stable)
+Santa Hat (93, 2.4/10 , Stable)
+Box (95, 0/10 , Stable)
+Wrapper (94, 0/10 , Stable)
+Ribbon (92, 0/10 , Stable)
+Snowball (90, 2.1/10 , Stable)
+Alloyed Cup (80, 0/10 , Stable)
+Fog Cup (85, 3.5/10 , Unstable/Decreasing)
+Upgrader Essence (85, 3.5/10 , Stable)
+Teleportation Device (70, 4.2/10 , Unstable/Decreasing)
+Toxic Barrel (70, 2/10, Stable)
+Dungeon Essence (65, 2.2/10 , Unstable/Decreasing)
+Tome of Future (62, 2.4/10 , Stable)
+Tome of Forgotten Knowledge (58, 2/10 , Stable)
+Trema Trema Yes Yu (55, 2.2/10 , Stable)
+C Tier Madness Cup (55, 2.8/10 , Stable)
+Heart of Enphoso (50, 3.2/10 , Stable)
+Lost Starlight (54, 3.1/10, Stable)
+Milk Cup (53, 2.4/10 , Stable)
+Heavenly Cup (52, 2.4/10 , Stable)
+Dungeon Key (47, 3.4 , Stable)
+Fog Consumer (45, 2.5/10 , Stable)
+Heavenly Essence (40, 2.5/10 , Stable)
+Shrouded Cup (35, 2.5/10 , Stable)
+D Tier Battery (35, 2.4/10 , Unstable/Decreasing)
+Fog Core (40, 2/10, Stable)
+Platinum Chest (37, 1.4/10, Stable)
+Binary Sword (35, 2/10, Stable)
+Enchanted Bone (30, 2.5/10, Stable)
+Fog Ball (25, 1/10 , Stable)
+Moai Fragment (15, 1/10 , Stable)
+Icy Cup (14, 2/10 , Stable)
+Diamond (14, 1.3/10 , Stable)
+Divine Cup (12, 1/10, Stable)
+Dark Chest (10, 1.4/10, Stable)
+Dark Cup (7, 1.4/10, Stable)
+Wooden Chest (5,1/10, Stable)
+E Tier Steel Bar (8, 0/10, Stable)
+Carbon (6, 2/10, Stable)
+Blood Cup (5, 0/10, Stable)
+Gloober Ball (5, 5/10 , Stable)
+Diamond Egg (5, 0/10, Stable)
+Golden Egg (5, 0/10, Stable)
+Egg (5, 0/10, Stable)
+Red Candy (5, 0/10 , Stable)
+Yellow Candy (5, 0/10 , Stable)
+Green Candy (5, 0/10 , Stable)
+Blue Candy (5, 0/10 , Stable)
+Brown Candy (5, 0/10, Stable)
+F Tier
+7 Dragon Ball (5, 1.5/10, Stable)
+6 Dragon Ball (5, 1/10, Stable)
+5 Dragon Ball (4, 1/10, Stable)
+4 Dragon Ball (3, 1/10, Stable)
+3 Dragon Ball (3, 1/10, Stable)
+2 Dragon Ball (2, 1/10, Stable)
+1 Dragon Ball (2, 1/10, Stable)
+Random Core (2, 1/10 , Stable)
+Iron Bar (2, 0/10, Stable)
+Oil Cup (1, 0/10, Stable)
+Plank (1, 0/10, Stable)
+No Value
+Thorn Glognut (0, 0/10, Stable)

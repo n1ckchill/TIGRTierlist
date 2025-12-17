@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-12-17",
+    "tierOrder": ["SS","S","A","B","C","D","E","F","NV"]
+  },
+  "categories": {
+    "trolls": [],
+    "items": [
+      {
+        "name": "Big Toilet",
+        "tier": "SS",
+        "points": 1900,
+        "pointsUnknown": false,
+        "demand": 6.5,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+    {
+      "name": "Ultimate Star",
+      "tier": "SS",
+      "points": 1800,
+      "pointsUnknown": false,
+      "demand": 6.5,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Clover-",
+      "tier": "SS",
+      "points": 1700,
+      "pointsUnknown": false,
+      "demand": 3,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+      {
+        "name": "Neon Candy Bucket",
+        "tier": "SS",
+        "points": 1500,
+        "pointsUnknown": false,
+        "demand": 3.0,
+        "stability": "Unstable",
+        "trend": null,
+        "label": "seasonal",
+        "notes": null
+      },
+    {
+      "name": "Fog Sword",
+      "tier": "SS",
+      "points": 1400,
+      "pointsUnknown": false,
+      "demand": 3.6,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+      {
+        "name": "Light Ball",
+        "tier": "SS",
+        "points": 1100,
+        "pointsUnknown": false,
+        "demand": 1.0,
+        "stability": "Unstable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+    {
+      "name": "Token of Greed",
+      "tier": "SS",
+      "points": 1050,
+      "pointsUnknown": false,
+      "demand": 2,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Chest of Greed",
+      "tier": "SS",
+      "points": 1000,
+      "pointsUnknown": false,
+      "demand": 6.5,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+
+    {
+      "name": "Ruler of Time Cup",
+      "tier": "S",
+      "points": 800,
+      "pointsUnknown": false,
+      "demand": 7.5,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Clover Cup",
+      "tier": "S",
+      "points": 750,
+      "pointsUnknown": false,
+      "demand": 4,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "10K Cup",
+      "tier": "S",
+      "points": 740,
+      "pointsUnknown": false,
+      "demand": 6.9,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+      {
+        "name": "Infernal Cup",
+        "tier": "S",
+        "points": 670,
+        "pointsUnknown": false,
+        "demand": 8.0,
+        "stability": "Variable",
+        "trend": "Decreasing",
+        "label": "seasonal",
+        "notes": null
+      },
+
+      {
+        "name": "Candy Cup",
+        "tier": "A",
+        "points": 350,
+        "pointsUnknown": false,
+        "demand": 6.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+      {
+        "name": "Icy Gift",
+        "tier": "A",
+        "points": 310,
+        "pointsUnknown": false,
+        "demand": 5.2,
+        "stability": "Stable",
+        "trend": null,
+        "label": "seasonal",
+        "notes": null
+      },
+    {
+      "name": "Beach Cup",
+      "tier": "A",
+      "points": 285,
+      "pointsUnknown": false,
+      "demand": 4,
+      "stability": "Stable",
+      "trend": null,
+      "label": "seasonal",
+      "notes": null
+    },
+      {
+        "name": "Tiny Oil Cup",
+        "tier": "A",
+        "points": 250,
+        "pointsUnknown": false,
+        "demand": 7.5,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Aether Cup",
+        "tier": "B",
+        "points": 100,
+        "pointsUnknown": false,
+        "demand": 3.4,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+    {
+      "name": "Star Cup",
+      "tier": "B",
+      "points": 95,
+      "pointsUnknown": false,
+      "demand": 2,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+
+      {
+        "name": "Madness Cup",
+        "tier": "C",
+        "points": 60,
+        "pointsUnknown": false,
+        "demand": 2.8,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+      {
+        "name": "Milk Cup",
+        "tier": "C",
+        "points": 50,
+        "pointsUnknown": false,
+        "demand": 2.4,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Battery",
+        "tier": "D",
+        "points": 40,
+        "pointsUnknown": false,
+        "demand": 2.4,
+        "stability": "Variable",
+        "trend": "Decreasing",
+        "label": "none",
+        "notes": null
+      },
+      {
+        "name": "Divine Cup",
+        "tier": "D",
+        "points": 10,
+        "pointsUnknown": false,
+        "demand": 1.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": "Lowest value example"
+      },
+
+      {
+        "name": "Blood Cup",
+        "tier": "E",
+        "points": 10,
+        "pointsUnknown": false,
+        "demand": 0.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "7 Dragon Ball",
+        "tier": "F",
+        "points": 10,
+        "pointsUnknown": false,
+        "demand": 1.5,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Thorn Glognut",
+        "tier": "NV",
+        "points": 0,
+        "pointsUnknown": false,
+        "demand": 0.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": "No Value"
+      }
+    ]
+  }
+}

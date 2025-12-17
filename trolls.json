@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-12-17",
+    "tierOrder": ["SS","S","A","B","C","D","E","F","NV"]
+  },
+  "categories": {
+    "trolls": [
+      {
+        "name": "Skateboarder",
+        "tier": "SS",
+        "points": 7500,
+        "pointsUnknown": false,
+        "demand": 6.7,
+        "stability": "Unstable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+    {
+      "name": "Skater",
+      "tier": "SS",
+      "points": 7000,
+      "pointsUnknown": false,
+      "demand": 7,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Scientist",
+      "tier": "SS",
+      "points": 6500,
+      "pointsUnknown": false,
+      "demand": 3,
+      "stability": "Unstable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Ape O. Buffy: Shift Fourth/G4",
+      "tier": "SS",
+      "points": 6000,
+      "pointsUnknown": false,
+      "demand": 7,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Manly Troll",
+      "tier": "SS",
+      "points": 5500,
+      "pointsUnknown": false,
+      "demand": 5,
+      "stability": "Unstable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Priest",
+      "tier": "SS",
+      "points": 5000,
+      "pointsUnknown": false,
+      "demand": 8,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "The Fish",
+      "tier": "SS",
+      "points": 4000,
+      "pointsUnknown": false,
+      "demand": 6,
+      "stability": "Stable",
+      "trend": "Heavily Decreasing",
+      "label": "none",
+      "notes": null
+    },
+    {
+      "name": "Trollge Phonk",
+      "tier": "SS",
+      "points": 2800,
+      "pointsUnknown": false,
+      "demand": 7.2,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+      {
+        "name": "Big Toilet Troll",
+        "tier": "SS",
+        "points": 1500,
+        "pointsUnknown": false,
+        "demand": 6.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Juno",
+        "tier": "S",
+        "points": 1000,
+        "pointsUnknown": false,
+        "demand": 5.5,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+    {
+      "name": "Clover One",
+      "tier": "S",
+      "points": 900,
+      "pointsUnknown": false,
+      "demand": 6,
+      "stability": "Stable",
+      "trend": null,
+      "label": "none",
+      "notes": null
+    },
+      {
+        "name": "Greed Troll",
+        "tier": "S",
+        "points": 350,
+        "pointsUnknown": false,
+        "demand": 4.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": "Fair trade reference"
+      },
+      {
+        "name": "Stone Troll",
+        "tier": "S",
+        "points": 340,
+        "pointsUnknown": false,
+        "demand": 3.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Illuminatroll",
+        "tier": "A",
+        "points": 250,
+        "pointsUnknown": false,
+        "demand": 6.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+      {
+        "name": "Dust Sans (Bad Time Sans)",
+        "tier": "A",
+        "points": 210,
+        "pointsUnknown": false,
+        "demand": 8.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Rainbow Troll",
+        "tier": "B",
+        "points": 50,
+        "pointsUnknown": false,
+        "demand": 1.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Goku",
+        "tier": "C",
+        "points": 30,
+        "pointsUnknown": false,
+        "demand": 3.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Snow Eater",
+        "tier": "D",
+        "points": 30,
+        "pointsUnknown": false,
+        "demand": 1.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Inside Walls Troll",
+        "tier": "E",
+        "points": 10,
+        "pointsUnknown": false,
+        "demand": 1.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Grass Troll",
+        "tier": "F",
+        "points": 0,
+        "pointsUnknown": false,
+        "demand": 0.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": null
+      },
+
+      {
+        "name": "Troll",
+        "tier": "NV",
+        "points": 0,
+        "pointsUnknown": false,
+        "demand": 0.0,
+        "stability": "Stable",
+        "trend": null,
+        "label": "none",
+        "notes": "No Value"
+      }
+    ],
+    "items": []
+  }
+}
