@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "TIGR Tierlist Format (Locked)",
+  "title": "TIGR Tierlist Format",
   "description": "JSON Schema that strictly defines the trading tierlist format for TIGR (trolls + items).",
   "type": "object",
   "additionalProperties": false,
